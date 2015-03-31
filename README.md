@@ -6,5 +6,5 @@ Floating top menu when viewing a student.
 
 ## Installation
 1. Ensure you have the page fragment insertion point in your `/admin/students/more2.html` page.
-1. Create a new file called `more2.floatingheader.content.footer.txt` in the `/admin/students/` directory.
+1. Create a new file called `more2.floatingheader.leftnav.footer.txt` in the `/admin/students/` directory.
 1. Copy/paste the contents of (insert link here) into the newly created file.

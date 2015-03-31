@@ -1,0 +1,12 @@
+<script>
+	$j(function() {
+		$j('#nav-main-frame-secondary').css('position', 'fixed');
+		$j('#nav-main-frame-secondary').after('<div id="menu-padding" style="height: 110px;"></div>');
+		$j('#nav-main-frame-secondary').css('top', '0px');
+		$j('#nav-main-frame-secondary').css('left', '0px');
+		$j('#nav-main-frame-secondary').css('width', '95%');
+		$j('#nav-main-frame-secondary').css('background-color', 'rgb(238,238,238)');
+		$j('#nav-main-frame-secondary').css('z-index', '999');
+		$j('#nav-main-frame-secondary').css('margin', '0px');
+	});
+</script>

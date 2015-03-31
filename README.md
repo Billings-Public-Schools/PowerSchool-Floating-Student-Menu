@@ -2,7 +2,7 @@
 Floating top menu when viewing a student.
 
 ## Requirements
-1. PowerSchool version 8 or above
+- PowerSchool version 8 or above
 
 ## Installation
 1. Ensure you have the page fragment insertion point in your `/admin/students/more2.html` page.

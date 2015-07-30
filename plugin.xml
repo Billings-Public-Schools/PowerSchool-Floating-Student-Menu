@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://plugin.powerschool.pearson.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://plugin.powerschool.pearson.com plugin.xsd" name="Floating Student Menu Header" version="2.1" description="Makes the more2.html header for students float.">
+  <autoinstall required="true">
+    <autoenable required="true"/>
+    <autoredeploy/>
+  </autoinstall>
+  <publisher name="Steven Riehl">
+    <contact email="riehls@billingsschools.org"/>
+  </publisher>
+</plugin>
